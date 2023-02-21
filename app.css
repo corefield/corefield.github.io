@@ -250,3 +250,7 @@ a.dropdown-item {
     font-size: large;
     font-weight: 600;
 }
+
+#smallerh1{
+    font-size: 2.5rem;
+}
