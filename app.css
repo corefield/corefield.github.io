@@ -53,6 +53,26 @@ hr{
     border-top: 1px solid #fff;
 }
 
+.banner{
+    width: 100vw;
+    max-width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.headercontentabout h1{
+    font-family: HonokaShinMincho;
+    font-size: 50px;
+    color: rgba(74, 74, 75, 1);
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+.headercontentabout p{
+    margin-bottom: 0px;
+}
+
 .whitelink:link {
 	color: #777777;
 }
@@ -156,26 +176,6 @@ a.dropdown-item {
     color: #ffffff;
 }
 
-.headercontentabout h1{
-    font-family: HonokaShinMincho;
-    font-size: 50px;
-    color: rgba(74, 74, 75, 1);
-    background-color: rgba(255, 255, 255, 0.7);
-}
-
-.headercontentabout p{
-    margin-bottom: 0px;
-}
-
-.banner{
-    width: 100vw;
-    max-width: 100%;
-    padding-left: 0px;
-    padding-right: 0px;
-    margin-left: 0%;
-    margin-right: 0%;
-}
-
 #section-2-about{
     background: url(img/slide11.jpg);
 	background-attachment: fixed;
@@ -244,4 +244,9 @@ a.dropdown-item {
 .tab-content .tab-pane {
     background-color: #F8F9FA;
     color: #343A40;
+}
+
+#scheduleContent h3{
+    font-size: large;
+    font-weight: 600;
 }
