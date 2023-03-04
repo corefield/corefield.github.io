@@ -118,6 +118,10 @@ a.dropdown-item {
     font-family: KozukaGothicPr6N;
 }
 
+.mainpagesectioncontent{
+    background-color: rgba(0,0,0,0.5);
+}
+
 #arst{
     font-family: DellaRobbia;
 }
@@ -139,7 +143,6 @@ a.dropdown-item {
     background: url(img/bg2.jpg);
 	background-attachment: fixed;
 	background-size: cover;
-
     height: 80vh;
     text-align: justify;    
     color: #ffffff;
